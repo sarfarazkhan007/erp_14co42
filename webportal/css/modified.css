@@ -1,0 +1,39 @@
+body{
+	background-color:#F0F0F0 ;
+}	
+.header,.footer{
+	padding-top:7%;
+	height:300px;
+	margin:0 auto;
+	color:#e9ece5;
+	background-color: #4682B4;
+	text-align:center;
+}
+.footer{
+	height:100%;
+}
+.recentQ a:hover,.topQ a:hover{
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.lk a{
+	cursor: pointer;
+	margin-left:2px;
+	color: black;
+}
+.who{
+
+	margin:2px;
+	text-decoration: none;
+	color:white;
+	background-color:#FF7500;
+	padding:5px;
+	border:1px solid  	#FF4500;
+	border-radius: 5px;
+}
+.who:hover{
+	text-decoration: none;
+	color:white;
+	background-color:#FF7500;
+}
